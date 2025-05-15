@@ -1,1 +1,1 @@
-# Here I will sharing all my Linux based tasks and assignments
+# Here I will be sharing all my Linux based tasks and assignments
